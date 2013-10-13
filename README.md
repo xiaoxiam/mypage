@@ -1,0 +1,4 @@
+mypage
+======
+
+blog
